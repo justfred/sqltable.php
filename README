@@ -1,0 +1,6 @@
+sqltable.php
+
+sqltable is an extensible class for creating and consuming sql table
+data with minimal programming.  It's intended to be called from php.  In many cases this should allow access to mysql without having to create sql queries.
+
+sqltable_ajax is a wrapper for calling it from AJAX, returning JSON.
